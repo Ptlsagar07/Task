@@ -1,0 +1,19 @@
+h1{
+    background-color: aquamarine;
+    font-size: larger;
+}
+h2{
+    background-color: aqua;
+    font-size: larger;
+}
+.one{
+    background-color: blueviolet;
+    font-size: medium;
+}
+.two{
+    background-color: blue;
+    font-size: medium;
+}
+#tt{
+    color: bisque;
+}
